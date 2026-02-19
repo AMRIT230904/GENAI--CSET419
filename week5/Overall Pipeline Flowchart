@@ -1,0 +1,25 @@
+Start
+   ↓
+Load CIFAR-10 Dataset
+   ↓
+Generate Edge Images (Canny)
+   ↓
+Normalize to [-1,1]
+   ↓
+Build Encoder–Decoder Model
+   ↓
+Train Model (MSE)
+   ↓
+Evaluate & Visualize Results
+   ↓
+Change Loss to MAE
+   ↓
+Train Again
+   ↓
+Build U-Net Model
+   ↓
+Train U-Net (MAE)
+   ↓
+Compare Results
+   ↓
+End
